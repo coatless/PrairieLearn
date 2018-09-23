@@ -9,6 +9,8 @@
 
   * Fix Google auth using new API (Matt West).
 
+  * Change correct answers to always be displayed in Dev, Administrator, and Instructor mode (James Balamuta).
+
 * __3.0.0__ - 2018-05-23
 
   * Add improved support for very large file downloads (Nathan Walters).

@@ -136,7 +136,7 @@
   </div>
   <% } %>
 
-  <% if (showTrueAnswer) { %>
+  <% if (showTrueAnswer || devMode || authz_data.has_instructor_view || is_administrator) { %>
   <div class="card mb-4 grading-block">
     <div class="card-header bg-secondary text-white">Correct answer</div>
     <div class="card-body answer-body">
