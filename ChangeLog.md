@@ -129,6 +129,7 @@
 
   * Change `pl-string-input` to include an attribute for the placeholder (Mariana Silva).
 
+  * Change display location of access rules to be at the top of the `instructorAssessment` page (James Balamuta).
 
 * __3.0.0__ - 2018-05-23
 
