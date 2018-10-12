@@ -95,6 +95,8 @@
 
   * Fix docs for `allowIssueReporting` (Matt West).
 
+  * Fix responsiveness and centering of images displayed with `pl-figure` (James Balamuta, h/t Dave Mussulman).
+
   * Change `pl-code` to display code from a source file OR inline text (Mariana Silva).
 
   * Change element names to use dashes instead of underscores (Nathan Walters).
